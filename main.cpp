@@ -6,4 +6,5 @@ int main() {
   cout<<"code written after the signin and signup branches and is more generic">>
   signin();
   return 0;
+  cout<<"merged code after signin">>
 }
